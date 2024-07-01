@@ -1,4 +1,13 @@
-## Hi there 👋
+![bild](https://live.staticflickr.com/65535/48290032862_7f98b441ed_b.jpg)
+
+# Welcome to my github!
+
+🔭 I’m currently working on ft_transcendence
+
+🌱 I’m currently learning javaScript
+
+📫 How to reach me: https://www.linkedin.com/in/vivienlenard/
+
 
 <!--
 **vivilenard/vivilenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
