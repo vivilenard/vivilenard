@@ -2,6 +2,8 @@
 
 # Welcome to my github!
 
+**`Software Developement Student`**
+
 🔭 I’m currently working on ft_transcendence
 
 🌱 I’m currently learning javaScript
