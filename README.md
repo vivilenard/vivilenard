@@ -1,4 +1,3 @@
-![bild](https://live.staticflickr.com/65535/48290032862_7f98b441ed_b.jpg)
 
 # Welcome to my github!
 
@@ -9,6 +8,10 @@
 🌱 I’m currently learning javaScript
 
 📫 How to reach me: https://www.linkedin.com/in/vivienlenard/
+
+🖥️ My Website: https://vivilenard.github.io/
+
+![bild](https://live.staticflickr.com/65535/48290032862_7f98b441ed_b.jpg)
 
 
 <!--
