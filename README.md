@@ -1,5 +1,4 @@
 
-# Welcome to my github!
 
 **`Software Developement Student`**
 
