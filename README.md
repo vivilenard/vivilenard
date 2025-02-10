@@ -2,9 +2,7 @@
 
 **`Software Developement Student`**
 
-🔭 I’m currently working on ft_transcendence
-
-🌱 I’m currently learning JavaScript
+🔭 I’m currently doing my internship at Porsche
 
 📫 How to reach me: https://www.linkedin.com/in/vivienlenard/
 
