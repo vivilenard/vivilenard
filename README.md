@@ -1,9 +1,3 @@
-
-
-**`Software Developement Student`**
-
-🔭 I’m currently doing my internship at Porsche
-
 📫 How to reach me: https://www.linkedin.com/in/vivienlenard/
 
 🖥️ My Website: https://vivilenard.github.io/
