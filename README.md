@@ -1,7 +1,9 @@
-Hi there. Welcome to my github.
+Hi there! Welcome to my github.
 
-🖥️ My Website: https://vivilenard.github.io/
+🖥️ Visit my Website: https://vivilenard.github.io/
+
 📫 How to reach me: https://www.linkedin.com/in/vivienlenard/
+
 🔭 I’m currently working on https://github.com/vivilenard/Demination
 
 ![bild](https://live.staticflickr.com/65535/48290032862_7f98b441ed_b.jpg)
